@@ -11,6 +11,6 @@ Consists of:
 ## TODO 
     [x] Create landing page: index.html
     [x] Add links to recipe pages
-    [] Create pages folder
-    [] Create recipe pages
+    [x] Create pages folder
+    [x] Create recipe pages
     [] Render recipes
