@@ -9,6 +9,8 @@ Consists of:
     * Images
 
 ## TODO 
-    [] Create landing page: index.html
-    [] Add links to recipe pages
+    [x] Create landing page: index.html
+    [x] Add links to recipe pages
+    [] Create pages folder
     [] Create recipe pages
+    [] Render recipes
