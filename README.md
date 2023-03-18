@@ -3,10 +3,10 @@
 The Odin Project HTML Project. 
 A simple HTML project that renders a recipe page.
 Consists of: 
-    * Headers
-    * Anchors
-    * Lists
-    * Images
+- Headers
+- Anchors
+- Lists
+- Images
 
 ## TODO 
     [x] Create landing page: index.html
