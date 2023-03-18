@@ -13,4 +13,5 @@ Consists of:
     [x] Add links to recipe pages
     [x] Create pages folder
     [x] Create recipe pages
+    [] Link landing page to respective recipe
     [] Render recipes
